@@ -1,0 +1,50 @@
+# Environment
+.env
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+*.egg-info/
+dist/
+build/
+eggs/
+*.egg
+
+# Virtual Environment
+venv/
+.venv/
+env/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Uploads
+uploads/
+
+# Database
+*.db
+
+# Logs
+*.log
+
+# Test
+.pytest_cache/
+htmlcov/
+.coverage
+
+# Alembic
+alembic/versions/*.pyc
+
+# Temp files
+extract.ps1
+assignment.txt
